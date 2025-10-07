@@ -82,5 +82,3 @@ highscore.txt
 https://github.com/Nifsath/Fruit-Catcher.git
 
 ---
-
----
