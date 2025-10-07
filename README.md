@@ -33,7 +33,7 @@ The game features multiple difficulty levels, dynamic gameplay, power-ups, sound
 ## 🛠️ Installation Instructions
 1. Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/Fruit-Catcher-Game.git
+git clone https://github.com/Nifsath/Fruit-Catcher.git
 ````
 
 2. Navigate to the project folder:
